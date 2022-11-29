@@ -1,0 +1,17 @@
+body{
+  background-image: url("https://th.bing.com/th/id/OIP.3gz5hYS1K2GicShcanhcYAHaFj?pid=ImgDet&rs=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-size: 15px;
+  color: gold;
+}
+.Slot_machine{
+text-align: center;
+color: rgb(0, 0, 0);
+}
+.heading{
+  color: aquamarine;
+  font-size: 70px;
+  text-align: center;
+}
